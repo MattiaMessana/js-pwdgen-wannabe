@@ -15,7 +15,7 @@ console.log(userSurename, typeof userSurename);
 let userColor = prompt("Quale è il tuo colore preferito?"); //string
 console.log(userColor, typeof userColor);
 //con math.random generiamo un numero casuale compreso fra 1 a 100 inclusi 
-let numberCasual = Math.floor((Math.random() * 100) + 1);
+let numberCasual = Math.floor((Math.random() * 100) + 1); //number
 console.log(numberCasual, typeof numberCasual);
 
 
